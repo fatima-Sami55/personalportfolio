@@ -1065,7 +1065,7 @@ height: auto;
 
 @media screen and (min-width:568px) {
     
-    .home__content{
+     .home__content{
         grid-template-columns: max-content 1fr 1fr ;
     }
     .home-container{
@@ -1078,15 +1078,18 @@ height: auto;
     .home__img{
         order: 1;
         justify-self: center;
-    } 
+    }  
     
     .about__container,
     .portfolio__container,
-    .project__container,
     .contact__container,
     .footer__container{
         grid-template-columns: repeat(2, 1fr);
     } 
+    .project__container{
+        grid-template-columns: repeat(2, 1fr);
+        height: 15rem;
+    }
 
     .skills-container{
         grid-template-columns: repeat(2, 1fr);
@@ -1232,6 +1235,7 @@ height: auto;
        .project__container{
            background-color: var(--first-color-second);
            border-radius: 1rem;
+           height: 15rem;
            padding: 3rem 5rem 0;
            grid-template-columns: 1fr max-content;
            column-gap: 3rem;
@@ -1286,4 +1290,7 @@ height: auto;
          .contact__inpts{
              grid-template-columns: repeat(2, 1fr);
          }
+         .project__container{
+            height: 15rem;
+        }
 }
