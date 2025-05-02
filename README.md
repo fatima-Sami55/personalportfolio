@@ -50,7 +50,7 @@ To run this project locally:
 
 ## 📬 Contact
 
-Feel free to reach out via [my email](samifatima975@gmail.com) if you have feedback or suggestions!
+Feel free to reach out via [my email](mailto:samifatima975@gmail.com) if you have feedback or suggestions!
 
 
 ## 📄 License
