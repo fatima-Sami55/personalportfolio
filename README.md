@@ -1,4 +1,55 @@
-![personal](https://user-images.githubusercontent.com/84532632/122971322-c79a9b80-d343-11eb-952f-0d6f2f07c249.png)
-# personalportfolio
+# 💼 Personal Portfolio
 
-My third project
+ A responsive personal portfolio website to showcase my skills, projects, and contact details.
+
+🚀 **Live Demo:** [personalportfolio-psi-ivory.vercel.app](https://personalportfolio-psi-ivory.vercel.app)
+
+## 📌 Features
+
+- Responsive and modern UI/UX
+- Sections: Home, About, Skills, Services, Portfolio, Contact
+- Interactive animations and transitions
+- Hosted on Vercel for global accessibility
+
+## 🛠️ Tech Stack
+
+- HTML5
+- CSS3
+- JavaScript (Vanilla)
+
+## 🧑‍💻 Getting Started
+
+To run this project locally:
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/your-username/personalportfolio.git
+
+2. Navigate to the project folder:
+   ```bash
+   cd personalportfolio
+
+3. Open index.html in your browser (or use a live server extension if using VS Code)
+
+## 📂 Folder Structure
+
+* personalportfolio/
+  * assets/
+    + images
+    + icons
+  * css/
+    + style.css
+  * js/
+    + script.js
+  * index.html
+  * README.md
+
+## 📬 Contact
+
+Feel free to reach out via [my email](samifatima975@gmail.com) if you have feedback or suggestions!
+
+
+## 📄 License
+
+This project is open-source. Feel free to use, modify, and share with credit.
+
