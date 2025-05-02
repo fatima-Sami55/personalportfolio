@@ -55,5 +55,4 @@ Feel free to reach out via [samifatima975@gmail.com](mailto:samifatima975@gmail.
 
 ## 📄 License
 
-This project is open-source. Feel free to use, modify, and share with credit.
-
+This project is open-source.
