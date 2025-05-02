@@ -33,7 +33,7 @@ To run this project locally:
 
 ## 📂 Folder Structure
 
-* personalportfolio/
+* Portfolio/
   * assets/
      * images/
      * css/
@@ -50,7 +50,7 @@ To run this project locally:
 
 ## 📬 Contact
 
-Feel free to reach out via [my email](mailto:samifatima975@gmail.com) if you have feedback or suggestions!
+Feel free to reach out via [samifatima975@gmail.com](mailto:samifatima975@gmail.com) if you have feedback or suggestions!
 
 
 ## 📄 License
