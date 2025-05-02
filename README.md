@@ -23,11 +23,11 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/fatima-Sami55/personalportfolio
+   git clone https://github.com/fatima-Sami55/Portfolio
 
 2. Navigate to the project folder:
    ```bash
-   cd personalportfolio
+   cd Portfolio
 
 3. Open index.html in your browser (or use a live server extension if using VS Code)
 
