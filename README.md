@@ -23,7 +23,7 @@ To run this project locally:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/personalportfolio.git
+   git clone https://github.com/fatima-Sami55/personalportfolio
 
 2. Navigate to the project folder:
    ```bash
@@ -35,11 +35,15 @@ To run this project locally:
 
 * personalportfolio/
   * assets/
-    + images
-    + icons
-  * css/
-    + style.css
-  * js/
+     * images/
+     * css/
+        + style.css
+        + swiper-bundle.min.css
+     * js/
+        + main.js
+        + swiper-bundle.min.js
+     * pdf/
+        + Resume.pdf
     + script.js
   * index.html
   * README.md
