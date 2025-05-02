@@ -1,4 +1,4 @@
-# 💼 Personal Portfolio
+# 💼 Portfolio
 
  A responsive personal portfolio website to showcase my skills, projects, and contact details.
 
